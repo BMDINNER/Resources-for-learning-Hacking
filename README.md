@@ -15,13 +15,17 @@
 3. Complete Penetration Testing Tutorials by OWASP (https://www.owasp.org/index.php/Web_Application_Penetration_Testing)
 4. Silesia Security Lab (https://silesiasecuritylab.com/blog/)
 5. Rafay Hacking Articles, a great blog (http://www.rafayhackingarticles.net/)
-6. Troyhunt (https://www.troyhunt.com/)
+6. Troyhunt (https://www.troyhunt.com/) 
+   
 
 # Vulnerable Machines/Websites
 1. FiringRange (https://public-firing-range.appspot.com/)
+2. A platform called Elastic to have free courses about Hacking/CyberSec (https://www.elastic.co/training/free)
 
 # Courses
 1. Computer Systems Security, MIT (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+2. Azure Security Engineer Associate Course (https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
+3. A platform called Elastic,you can take free courses here (https://www.elastic.co/training/free)
 
 # Workshops/Playlists
 1. Web Hacking (https://www.youtube.com/playlist?list=PLJM73L2pQRd4lXBZjsHAmeEqsn5pENXxN)
@@ -34,6 +38,7 @@
 3. Ghost in the Cloud, Kevin Mitnick (https://www.youtube.com/watch?v=76yrWGzScgI)
 4. Kevin Mitnick | Talks at Google (https://www.youtube.com/watch?v=aUqes9QdLQ4)
 5. Complete Free Hacking Course: Go from Beginner to Expert Hacker Today (https://www.youtube.com/watch?v=7nF2BAfWUEg)
+6. CyberMentor's Zero to Hero Pentesting Course on Youtube (https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
 
 # Hacking Conferences
 1. Blackhat (https://www.youtube.com/user/BlackHatOfficialYT)
